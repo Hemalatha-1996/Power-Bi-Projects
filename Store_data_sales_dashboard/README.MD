@@ -66,21 +66,17 @@ The dashboard helps in understanding business trends, identifying top-performing
 
 ## 📸 Dashboard Screenshots
 
-### 📍 Overview
+📍 Overview  
+![Overview](screenshots/overview.jpg)
 
-![Overview](screen shot/overview.jpg)
+📍 Sales vs Quantity Comparison  
+![Comparison](screenshots/comparison.jpg)
 
-### 📍 Sales vs Quantity Comparison
+📍 Table View  
+![Table](screenshots/table.jpg)
 
-![Comparison](screen shot/comparision sales vs quantity.jpg)
-
-### 📍 Table View
-
-![Table](screen shot/table visual.jpg)
-
-### 📍 Top & Bottom Products
-
-![Top Bottom](screen shot.top bottom.jpg)
+📍 Top & Bottom Products  
+![Top Bottom](screenshots/topbottom.jpg)
 
 ---
 
