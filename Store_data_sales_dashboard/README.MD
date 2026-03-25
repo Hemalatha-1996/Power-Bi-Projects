@@ -70,12 +70,15 @@ The dashboard helps in understanding business trends, identifying top-performing
 ![Overview](screenshots/overview.jpg)
 
 📍 Sales vs Quantity Comparison  
+
 ![Comparison](screenshots/comparison.jpg)
 
 📍 Table View  
+
 ![Table](screenshots/table.jpg)
 
 📍 Top & Bottom Products  
+
 ![Top Bottom](screenshots/topbottom.jpg)
 
 ---
