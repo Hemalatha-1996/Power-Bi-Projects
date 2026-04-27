@@ -72,7 +72,9 @@ This ensured accurate grouping and reporting.
 ---
 
 ## 📷 Dashboard Preview
-*(blinkit.jpg)*
+*## 📷 Dashboard Preview
+
+![Blinkit Dashboard](blinkit.jpg)*
 
 
 ## 👩‍💻 Author
